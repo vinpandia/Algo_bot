@@ -1,5 +1,5 @@
 # WELCOME TO TELEGRAM ALGO_BOT
-# LINK FOR BOT - 't.me/ALGO69_69BOT.'
+# LINK FOR BOT - t.me/ALGO69_69BOT
 
 ## BOT COMMANDS SETUP
 - /start   =>  to start the bot
